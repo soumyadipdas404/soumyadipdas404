@@ -1,5 +1,3 @@
-<img align="right" height="200" src="https://i.imgur.com/4kIEER5.png"  />
-
 ###
 
 <h2 align="left">Hi I'm Somyadip Das - Frontend Developer</h2>
