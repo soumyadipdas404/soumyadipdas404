@@ -1,49 +1,58 @@
-###
-
-<h2 align="left">Hi I'm Somyadip Das - Frontend Developer</h2>
+<h1 align="left">Hi ! Soumyadip Das here 👋</h1>
 
 ###
 
-<h5 align="left">Writing bugs since: 📅 2020<br><br>Experience:<br>|<br>Former Frontend Developer @salesklik<br>(Sept/2023 - May/2024)<br><br>Education:<br>|<br>BCA Graduate<br>(2020 - 2024)</h5>
+<p align="left">A developer with an ambition to enhance skills for better work performance.<br><br>💯 Moto : <br>----------------------------<br>If things doesn't work out, change the plan.<br>But don't Change the Goal.</p>
 
 ###
 
-<p align="left">Skills: 👇🏽</p>
+<h2 align="left">Work Experience 👷‍♂️</h2>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+<p align="left">Frontend Developer at  eWards [2024/Aug - Present]<br>|<br>Former Frontend dev. at Salesklik [2023/Sept - 2024/July]</p>
+
+###
+
+<h2 align="left">Education</h2>
+
+###
+
+<p align="left">MCA - IGNOU (2024-26)<br>|<br>BCS - DAITM (2020-23)<br>|<br>HS - S.P.V (2020)<br>|<br>Secondary - S.P.V (2018)</p>
+
+###
+
+<h2 align="left">Skills that I Own 👇</h2>
+
+###
+
+<div>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988022/Skill_Card_1_lkrdms.svg"  />
+<img width="20"/>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988022/Skill_Card_2_ephnum.svg"  />
+
+</div>
+
+###
+
+<div>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988022/Skill_Card_3_x1cw4s.svg"  />
+<img width="20"/>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988024/Skill_Card_5_kabk9a.svg"  />
+</div>
+
+###
+
+<div>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988024/Skill_Card_4_cnvdxo.svg"  />
+<img width="20"/>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988024/Skill_Card_6_ppq67g.svg"  />
+</div>
+
+###
+
+<div>
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988025/Skill_Card_7_cb8xgi.svg"  />
 </div>
 
 ###
