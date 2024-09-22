@@ -27,7 +27,7 @@
 ###
 
 <div>
-<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988022/Skill_Card_1_lkrdms.svg"  />
+<img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726990204/Skill_Card_1_w0wxip.svg"  />
 <img width="20"/>
 <img height="185" src="https://res.cloudinary.com/dy4g09dtw/image/upload/v1726988022/Skill_Card_2_ephnum.svg"  />
 
